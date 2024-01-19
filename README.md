@@ -2,7 +2,7 @@
 
 - 💻 I know PHP & MYSQL & Laravel Framework
 - 👨‍💻 I’m looking to collaborate on projects
-- 💬 I'm 24-years old developer from Uzbekistan/Khorezm
+- 💬 I'm 25-years old developer from Uzbekistan/Khorezm
 
 - 🌐 My website ddev.uz
 <img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=doston7277&theme=github_dark&show_icons=true&locale=en" alt="doston7277" />
